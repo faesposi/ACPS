@@ -1,0 +1,9 @@
+#Please use this template
+
+#subjects directory
+/home/pippo/freesurfer/subjects
+
+#name of the subjects to process (if you want to run the ACPS on all the subjects in the directory type '*')
+Sub1
+Sub2
+Sub3
