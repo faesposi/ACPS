@@ -67,6 +67,9 @@ false/negative positives sample.
 
 
 ## License
+If you use this work please cite:
+**Antonietta Canna, Andrea G. Russo, Sara Ponticorvo, Renzo Manara, Alessandro Pepino, Mario Sansone, Francesco Di Salle, Fabrizio Esposito, Automated search of control points in surface-based morphometry, NeuroImage, Available online 16 April 2018, ISSN 1053-8119, https://doi.org/10.1016/j.neuroimage.2018.04.035.**
+
 Please see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
