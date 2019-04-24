@@ -11,6 +11,7 @@ not on T1-weighted raw images.
     - Nibabel
     - Pandas
     - Scikit-learn
+    - Xgboost
     
 
 
